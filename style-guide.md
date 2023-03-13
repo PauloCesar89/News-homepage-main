@@ -1,33 +1,33 @@
-# Front-end Style Guide
+# Guia de estilo de front-end
 
 ## Layout
 
-The designs were created to the following widths:
+Os desenhos foram criados nas seguintes larguras:
 
-- Mobile: 375px
-- Desktop: 1440px
+- Móvel: 375px
+- Área de trabalho: 1440px
 
-## Colors
+## Cores
 
-### Primary
+### Principal
 
-- Soft orange: hsl(35, 77%, 62%)
-- Soft red: hsl(5, 85%, 63%)
+- Laranja suave: hsl(35, 77%, 62%)
+- Vermelho suave: hsl(5, 85%, 63%)
 
-### Neutral
+### Neutro
 
-Off-white: hsl(36, 100%, 99%)
-Grayish blue: hsl(233, 8%, 79%)
-Dark grayish blue: hsl(236, 13%, 42%)
-Very dark blue: hsl(240, 100%, 5%)
+Branco-sujo: hsl(36, 100%, 99%)
+Azul acinzentado: hsl (233, 8%, 79%)
+Azul acinzentado escuro: hsl(236, 13%, 42%)
+Azul muito escuro: hsl(240, 100%, 5%)
 
-## Typography
+## Tipografia
 
-### Body Copy
+### Cópia do corpo
 
-- Font size (paragraph): 15px
+- Tamanho da fonte (parágrafo): 15px
 
-### Font
+### Fonte
 
-- Family: [Inter](https://fonts.google.com/specimen/Inter)
-- Weights: 400, 700, 800
+- Família: [Inter](https://fonts.google.com/specimen/Inter)
+- Pesos: 400, 700, 800
