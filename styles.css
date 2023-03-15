@@ -37,6 +37,10 @@
     padding-left: 16rem;
 }
 
+.item2 img{
+    visibility: hidden;
+  }
+
 #menu a{
     color: hsl(233, 8%, 79%);
     text-decoration: none;
@@ -198,5 +202,21 @@
         visibility: hidden;
       }
 
+      .item2 img{
+        visibility: visible;
+      }
+
+      .item2{
+        padding-right: 8rem;
+      }
+
+      header{
+        padding-top: 2re
+      }
+
+      .img{
+        width: 80%;
+        height: 15rem;
+    }
 
 }
