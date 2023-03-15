@@ -193,4 +193,10 @@
         row-gap: 20px;
         padding: 1rem;   
       }
+
+      .item2 nav{
+        visibility: hidden;
+      }
+
+
 }
