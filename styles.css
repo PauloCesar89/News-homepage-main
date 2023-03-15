@@ -175,10 +175,25 @@
 
 
 
-/*
-border: 1px solid red;
+/* MOBILE*/
 
-    width: 20rem;
-    height: 12rem;
+@media screen and (max-width: 375px) {
 
-*/
+    body{
+        max-width: 100%;
+    }
+    .parent {
+        display: grid;
+        grid-template-areas:
+          'item1 item2'
+          'item3 item3'
+          'item5 item5'
+          'item6 item6'
+          'item4 item4'
+          'item7 item7'
+          'item8 item8'
+          'item9 item9';
+        row-gap: 20px;
+        padding: 1rem;   
+      }
+}
