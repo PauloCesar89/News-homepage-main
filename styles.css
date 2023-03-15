@@ -34,7 +34,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 16rem;
+    padding-left: 19rem;
 }
 
 .item2 img{
@@ -57,14 +57,14 @@
     background-color: hsl(240, 100%, 5%);
     color: hsl(36, 100%, 99%);
     width: 20rem;
-    height: 30rem;
+    height: 29.5rem;
     padding: 1rem;
 }
 
 .item4 h2{
     color: hsl(35, 77%, 62%);
     font-size: 30px;
-    padding: 1rem;
+    padding: 1rem 0 2rem 0;
 }
 
 .item4 h3{
@@ -85,8 +85,8 @@
 }
 
 .item5 h1{
-    font-size: 50px;
-    font-weight: 600;
+    font-size: 45px;
+    font-weight: 800;
     align-items: center;
     width: 20rem;
     height: 12rem;
@@ -94,7 +94,6 @@
 
 .item6 p{
     color: hsl(236, 13%, 42%);
-    margin-bottom: 1rem;
     width: 23rem;
     height: 7rem;
     text-align: start;
@@ -194,8 +193,8 @@
           'item7 item7'
           'item8 item8'
           'item9 item9';
-        row-gap: 20px;
-        padding: 1rem;   
+        row-gap: 15px;
+        padding: 0.5rem 3rem 1rem 0.5rem;   
       }
 
       .item2 nav{
@@ -206,17 +205,21 @@
         visibility: visible;
       }
 
-      .item2{
-        padding-right: 22rem;
-      }
-
       header{
         padding-top: 2rem;
       }
 
       .img{
-        width: 60%;
+        width: 100%;
         height: 22rem;
+    }
+
+    .item7 img{
+        width: 25%;
+    }
+
+    .item8 img{
+        width: 25%;
     }
 
 }
