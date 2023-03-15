@@ -26,7 +26,7 @@
     'item5 item5 item6 item4 item4 item4'
     'item7 item7 item8 item8 item9 item9';
   gap: 20px;
-  padding: 10px;
+  padding: 50px;
   margin-left: 60px;
 }
 
@@ -34,7 +34,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 19rem;
+    padding-left: 20rem;
 }
 
 .item2 img{
@@ -193,12 +193,15 @@
           'item7 item7'
           'item8 item8'
           'item9 item9';
-        row-gap: 15px;
-        padding: 0.5rem 3rem 1rem 0.5rem;   
+        row-gap: 15px; 
       }
 
       .item2 nav{
         visibility: hidden;
+      }
+
+      .navBar img{
+        padding-right: 9rem;
       }
 
       .item2 img{
@@ -210,7 +213,7 @@
       }
 
       .img{
-        width: 100%;
+        width: 80%;
         height: 22rem;
     }
 
