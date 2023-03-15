@@ -114,18 +114,69 @@
     display: inline;
     width: 23%;
     float: left;
+    margin-right: 1rem;
 }
 
 .item8 img{
     display: inline;
-    width: 25%;
+    width: 20%;
     float: left;
+    margin-right: 1rem;
 }
 
 .item9 img{
     display: inline;
     width: 25%;
     float: left;
+    margin-right: 1rem;
+}
+
+.item7 h1{
+    color: hsl(233, 8%, 79%);
+    margin-bottom: 1rem;
+    font-size: 30px;
+}
+
+.item7 h2{
+    margin-bottom: 1rem;
+}
+
+.item7 p{
+    color: hsl(236, 13%, 42%);
+    font-size: 13px;
+    width: 20rem;
+}
+
+.item8 h1{
+    color: hsl(233, 8%, 79%);
+    margin-bottom: 1rem;
+    font-size: 30px;
+}
+
+.item8 h2{
+    margin-bottom: 1rem;
+}
+
+.item8 p{
+    color: hsl(236, 13%, 42%);
+    font-size: 13px;
+    width: 20rem;
+}
+
+.item9 h1{
+    color: hsl(233, 8%, 79%);
+    margin-bottom: 1rem;
+    font-size: 30px;
+}
+
+.item9 h2{
+    margin-bottom: 1rem;
+}
+
+.item9 p{
+    color: hsl(236, 13%, 42%);
+    font-size: 13px;
+    width: 20rem;
 }
 
 
