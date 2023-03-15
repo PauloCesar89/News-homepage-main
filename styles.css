@@ -30,17 +30,11 @@
   margin-left: 60px;
 }
 
-.item1 header{
-    font-size: 50px;
-    font-weight: 700;
-    align-items: center;
-}
-
 .item2{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-left: 14rem;
+    padding-left: 16rem;
 }
 
 #menu a{
