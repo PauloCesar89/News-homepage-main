@@ -177,13 +177,8 @@
 
 /* MOBILE*/
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 375px) {
 
-
-
-    body{
-        max-width: 375px;
-    }
     .parent {
         display: grid;
         grid-template-areas:
